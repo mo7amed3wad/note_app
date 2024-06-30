@@ -34,7 +34,7 @@ class NotesItem extends StatelessWidget {
               ),
               child: const Icon(
                 Icons.delete,
-                color: Colors.red,
+                color: Colors.black,
                 size: 35,
               ),
             ),
